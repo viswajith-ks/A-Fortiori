@@ -84,7 +84,7 @@ Both aim to connect premises with conclusions, but offer different degrees of ce
 - [Logic](logic.md): The broader framework for evaluating arguments
 - [Deduction](deduction.md): The type of reasoning that aims for soundness
 - [Proof](proof.md) ⚠️ Placeholder: Formal demonstration often requiring soundness
-- [Truth](../epistemology/truth.md) ⚠️ Placeholder: Correspondence between statements and reality
+- [Truth](../epistemology/truth.md): Correspondence between statements and reality
 
 ## Key Questions
 - Can we ever know with certainty that our premises are true?
