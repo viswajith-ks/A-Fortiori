@@ -30,10 +30,10 @@ According to Aristotle's *Metaphysics*, first principles are "the first basis fr
 
 ## Related Concepts
 - [Axiom](../logic/axiom.md)
-- [Foundation](../meta-philosophy/foundation.md)
-- [Reduction](../meta-philosophy/reduction.md)
-- [Aristotelian Causation](../meta-philosophy/aristotelian-causation.md)
-- [Methodological Doubt](../meta-philosophy/methodological-doubt.md)
+- [Foundation](../meta-philosophy/foundation.md) ⚠️ Placeholder
+- [Reduction](../meta-philosophy/reduction.md) ⚠️ Placeholder
+- [Aristotelian Causation](../meta-philosophy/aristotelian-causation.md) ⚠️ Placeholder
+- [Methodological Doubt](../meta-philosophy/methodological-doubt.md) ⚠️ Placeholder
 
 
 ## Applications

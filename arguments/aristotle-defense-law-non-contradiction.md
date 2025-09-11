@@ -2,7 +2,7 @@
 
 **Type:** Defensive argument (against skeptical challenge)  
 **Target:** [Law of Non-Contradiction](../concepts/logic/classical-logical-axioms.md)  
-**Philosopher:** [Aristotle](../thinkers/aristotle.md)
+**Philosopher:** [Aristotle](../thinkers/aristotle.md) ⚠️ Placeholder
 
 ## The Challenge
 Some philosophers argue that the Law of Non-Contradiction (LNC) - that nothing can both be and not be at the same time and in the same respect - is merely a convention or might be false.
@@ -51,15 +51,15 @@ Written in *Metaphysics* Book Gamma, this argument establishes the LNC as the mo
 - **Infinite regress**: The defense itself relies on principles that might need defense
 
 ## Responses and Developments
-- [Paraconsistent Logic](../concepts/logic/paraconsistent-logic.md): Accepts some contradictions without logical explosion
-- [Buddhist Logic](../concepts/logic/buddhist-logic.md): Tetralemma allows for middle positions between contradiction
-- [Modern Defenders](../thinkers/modern-defenders.md): Contemporary logicians like Graham Priest challenge classical approaches
+- [Paraconsistent Logic](../concepts/logic/paraconsistent-logic.md) ⚠️ Placeholder: Accepts some contradictions without logical explosion
+- [Buddhist Logic](../concepts/logic/buddhist-logic.md) ⚠️ Placeholder: Tetralemma allows for middle positions between contradiction
+- [Modern Defenders](../thinkers/modern-defenders.md) ⚠️ Placeholder: Contemporary logicians like Graham Priest challenge classical approaches
 
 
 ## Related Arguments
-- [Principle of Explosion](../concepts/logic/principle-of-explosion.md)
-- [Descartes' Cogito](../thinkers/descartes-cogito.md)
-- [Transcendental Arguments](transcendental-arguments.md)
+- [Principle of Explosion](../concepts/logic/principle-of-explosion.md) ⚠️ Placeholder
+- [Descartes' Cogito](../thinkers/descartes-cogito.md) ⚠️ Placeholder
+- [Transcendental Arguments](transcendental-arguments.md) ⚠️ Placeholder
 
 
 ## Significance for A Fortiori

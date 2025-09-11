@@ -22,9 +22,9 @@ In classical philosophy, an axiom was considered so evident or well-established 
 
 ## Related Concepts
 - [First Principles](../meta-philosophy/first-principles.md)
-- [Postulate](postulate.md)
+- [Postulate](postulate.md) ⚠️ Placeholder
 - [Logic](logic.md)
-- [Proof](proof.md)
+- [Proof](proof.md) ⚠️ Placeholder
 - [Deduction](deduction.md)
 
 ## Historical Context
