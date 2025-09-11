@@ -2,7 +2,7 @@
 
 **Type:** Defensive argument (against skeptical challenge)  
 **Target:** [Law of Non-Contradiction](../concepts/logic/classical-logical-axioms.md)  
-**Philosopher:** [Aristotle](../thinkers/aristotle.md) ⚠️ Placeholder
+**Philosopher:** [Aristotle](../thinkers/aristotle.md)
 
 ## The Challenge
 Some philosophers argue that the Law of Non-Contradiction (LNC) - that nothing can both be and not be at the same time and in the same respect - is merely a convention or might be false.
