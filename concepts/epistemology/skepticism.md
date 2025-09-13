@@ -122,7 +122,7 @@ Can we know that others have mental states?
 - Philosophical zombies seem conceivable
 - Problem of analogical reasoning from single case
 
-### Inductive Skepticism ([Hume's Problem](../../arguments/problem-of-induction.md) ⚠️ Placeholder)
+### Inductive Skepticism ([Hume's Problem](../../arguments/problem-of-induction.md))
 Can we know that future will resemble past?
 - All inductive reasoning assumes uniformity of nature
 - This assumption cannot be justified non-circularly

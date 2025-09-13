@@ -59,7 +59,7 @@ Written in *Metaphysics* Book Gamma, this argument establishes the LNC as the mo
 ## Related Arguments
 - [Principle of Explosion](../concepts/logic/principle-of-explosion.md) ⚠️ Placeholder
 - [Descartes' Cogito](../thinkers/descartes-cogito.md) ⚠️ Placeholder
-- [Transcendental Arguments](transcendental-arguments.md) ⚠️ Placeholder
+- [Transcendental Arguments](transcendental-arguments.md)
 
 
 ## Significance for A Fortiori

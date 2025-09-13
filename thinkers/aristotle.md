@@ -38,7 +38,7 @@ Aristotle’s philosophy is marked by a commitment to empirical observation and 
 ## Key Arguments
 - [Defense of the Law of Non-Contradiction](../arguments/aristotle-defense-law-non-contradiction.md)
 - [Four Causes](../concepts/meta-philosophy/aristotelian-causation.md) ⚠️ Placeholder
-- [Transcendental Arguments](../arguments/transcendental-arguments.md) ⚠️ Placeholder *(method inspired by Aristotle)*
+- [Transcendental Arguments](../arguments/transcendental-arguments.md) *(method inspired by Aristotle)*
 
 ## Context
 Aristotle taught at the Lyceum in Athens, pioneering the earliest “research institute.” His influence stretches through medieval, Islamic, and modern philosophy, especially in logic, science, and virtue ethics.
