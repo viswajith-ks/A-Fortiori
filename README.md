@@ -10,9 +10,7 @@ Welcome. As a computer science undergraduate, I'm drawn to the formal systems of
 
 The name, _A Fortiori_, reflects the project's goal: to move from established premises to stronger conclusions, building a personal map of arguments and first principles.
 
-As an **agnostic**, my focus here is not on finding definitive answers about the divine, but on rigorously evaluating the architecture of arguments themselves. I'm interested in the "why" and "how" of belief systems and philosophical propositions.
-
-### **⏳This is a work in progress**, reflecting my own journey of learning and questioning.
+As an **agnostic**, my focus here is on rigorously evaluating the architecture of arguments themselves. I'm interested in the "why" and "how" of belief systems and philosophical propositions.
 
 ## 🧭 Navigating the Repository
 
@@ -28,6 +26,43 @@ This project is structured as a modular knowledge base. The goal is for ideas to
 
 To create a web of ideas, I make heavy use of Markdown links to connect concepts, arguments, and thinkers.
 
----
 
-_This repository is managed using Git. All content reflects my personal understanding and is not intended as academic authority._
+## Directory tree (placeholders skipped):
+```
+A-Fortiori/
+├── README.md
+├── arguments/
+│   ├── aristotle-defense-law-non-contradiction.md
+│   ├── problem-of-induction.md
+│   └── transcendental-arguments.md
+├── assets/
+│   └── thinkers
+├── concepts/
+│   ├── epistemology/
+│   │   ├── belief.md
+│   │   ├── induction.md
+│   │   ├── justification.md
+│   │   ├── knowledge.md
+│   │   ├── skepticism.md
+│   │   └── truth.md
+│   ├── logic/
+│   │   ├── axiom.md
+│   │   ├── classical-logical-axioms.md
+│   │   ├── contradiction.md
+│   │   ├── deduction.md
+│   │   ├── inference.md
+│   │   ├── logic.md
+│   │   ├── proof.md
+│   │   ├── soundness.md
+│   │   └── validity.md
+│   ├── meta-philosophy/
+│   │   └── first-principles.md
+│   ├── metaphysics/
+│   └── philosophy-religion/
+├── questions/
+├── sources/
+└── thinkers/
+    └── aristotle.md
+```
+#### **⏳This is a work in progress...**
+
