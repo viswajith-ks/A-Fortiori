@@ -1,4 +1,6 @@
 # Aristotle
+![Aristotle](../assets/thinkers/aristotle.jpg)  
+*Aristotle (384-322 BCE), marble bust*
 
 **Life Span:** 384–322 BCE
 

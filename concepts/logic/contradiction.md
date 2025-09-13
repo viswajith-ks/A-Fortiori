@@ -7,7 +7,7 @@ A contradiction is the simultaneous assertion of a statement and its negation; i
 
 ## Role in Logic
 - **Law of Non-Contradiction:** No statement can be both true and false at the same time and in the same respect ([Classical Logical Axioms](classical-logical-axioms.md)).
-- **Principle of Explosion:** From a contradiction, any conclusion can be derived ([principle-of-explosion](principle-of-explosion.md)).
+- **Principle of Explosion:** From a contradiction, any conclusion can be derived ([principle-of-explosion](principle-of-explosion.md) ⚠️ Placeholder).
 
 ## Types
 - **Explicit contradiction:** Direct assertion (“It is raining and it is not raining”).
