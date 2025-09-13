@@ -83,7 +83,7 @@ Both aim to connect premises with conclusions, but offer different degrees of ce
 - [Validity](validity.md): Structural correctness without regard to premise truth
 - [Logic](logic.md): The broader framework for evaluating arguments
 - [Deduction](deduction.md): The type of reasoning that aims for soundness
-- [Proof](proof.md) ⚠️ Placeholder: Formal demonstration often requiring soundness
+- [Proof](proof.md): Formal demonstration often requiring soundness
 - [Truth](../epistemology/truth.md): Correspondence between statements and reality
 
 ## Key Questions

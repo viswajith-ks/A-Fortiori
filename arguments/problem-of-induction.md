@@ -28,8 +28,8 @@ Hume asked: On what rational basis do we infer general laws from past experience
 - **Bayesian Epistemology:** Reframes induction as updating probabilities in light of evidence.
 
 ## Related Concepts
-- [Induction](../concepts/epistemology/induction.md) ⚠️ Placeholder
-- [Justification](../concepts/epistemology/justification.md) ⚠️ Placeholder
+- [Induction](../concepts/epistemology/induction.md)
+- [Justification](../concepts/epistemology/justification.md)
 - [Skepticism](../concepts/epistemology/skepticism.md)
 - [Certainty](../concepts/epistemology/certainty.md) ⚠️ Placeholder
 - [Perception](../concepts/epistemology/perception.md) ⚠️ Placeholder

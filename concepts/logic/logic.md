@@ -30,8 +30,8 @@ Logic examines several fundamental relationships:
 - **[Validity](validity.md)**: Whether an argument's structure guarantees the truth of its conclusion given true premises
 - **[Soundness](soundness.md)**: Whether an argument is both valid and has true premises  
 - **[Deduction](deduction.md)**: Reasoning from general principles to specific conclusions
-- **[Inference](inference.md) ⚠️ Placeholder**: The process of drawing conclusions from premises
-- **[Proof](proof.md) ⚠️ Placeholder**: A sequence of valid inferences establishing a conclusion
+- **[Inference](inference.md)**: The process of drawing conclusions from premises
+- **[Proof](proof.md)**: A sequence of valid inferences establishing a conclusion
 
 ## Historical Development
 - **Ancient**: Aristotle's *Organon* established formal logic as a discipline
@@ -51,9 +51,9 @@ Logic examines several fundamental relationships:
 - [Validity](validity.md)
 - [Soundness](soundness.md)
 - [Deduction](deduction.md)
-- [Inference](inference.md) ⚠️ Placeholder
-- [Proof](proof.md) ⚠️ Placeholder
-- [Contradiction](contradiction.md) ⚠️ Placeholder
+- [Inference](inference.md)
+- [Proof](proof.md)
+- [Contradiction](contradiction.md)
 - [Tautology](tautology.md) ⚠️ Placeholder
 
 ## Philosophical Significance

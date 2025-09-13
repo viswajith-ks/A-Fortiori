@@ -75,7 +75,7 @@ An argument can be:
 ## Related Concepts
 - [Soundness](soundness.md): Valid arguments with true premises
 - [Logic](logic.md): The broader study of reasoning
-- [Inference](inference.md) ⚠️ Placeholder: The process of drawing conclusions
+- [Inference](inference.md): The process of drawing conclusions
 - [Deduction](deduction.md): Reasoning that aims for validity
 - [Classical Logical Axioms](classical-logical-axioms.md): Principles underlying validity
 

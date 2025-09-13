@@ -182,7 +182,7 @@ Skeptical claims may undermine themselves
 
 ## Related Concepts
 - [Knowledge](knowledge.md): What skepticism challenges
-- [Justification](justification.md) ⚠️ Placeholder: Standards skepticism questions
+- [Justification](justification.md): Standards skepticism questions
 - [Belief](belief.md): Attitudes skepticism examines
 - [Doubt](doubt.md) ⚠️ Placeholder: Skeptical method and outcome
 - [Certainty](certainty.md) ⚠️ Placeholder: What skepticism denies possible

@@ -42,7 +42,7 @@ Deductive conclusions contain no information that wasn't already implicit in the
 
 ## Deduction vs Other Forms of Reasoning
 
-### Deduction vs [Induction](../epistemology/induction.md) ⚠️ Placeholder
+### Deduction vs [Induction](../epistemology/induction.md)
 - **Deduction**: General → Specific (certain conclusions)
 - **Induction**: Specific → General (probable conclusions)
 
@@ -86,7 +86,7 @@ Each step must conform to established inference rules.
 
 ### Premise Problem
 - How do we establish the truth of our starting premises?
-- Often requires [Induction](../epistemology/induction.md) ⚠️ Placeholder or other non-deductive methods
+- Often requires [Induction](../epistemology/induction.md) or other non-deductive methods
 
 ## Applications
 
@@ -120,7 +120,7 @@ Each step must conform to established inference rules.
 - [Validity](validity.md): Structural correctness in deductive arguments  
 - [Soundness](soundness.md): Valid deduction with true premises
 - [Axiom](axiom.md): Starting points for deductive systems
-- [Proof](proof.md) ⚠️ Placeholder: Extended deductive demonstrations
+- [Proof](proof.md): Extended deductive demonstrations
 
 ## Philosophical Questions
 - Is all reasoning ultimately deductive in structure?

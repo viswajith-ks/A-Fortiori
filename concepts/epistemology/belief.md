@@ -88,7 +88,7 @@ Beliefs formed from others' reports
 - Social dimension of belief formation
 
 ### Reasoning
-[Deductive](../logic/deduction.md) and [inductive](induction.md) ⚠️ Placeholder processes
+[Deductive](../logic/deduction.md) and [inductive](induction.md) processes
 - Drawing conclusions from other beliefs
 - Can amplify or correct initial beliefs
 - Subject to logical errors and biases
@@ -182,7 +182,7 @@ Neither believing nor disbelieving
 ## Related Concepts
 - [Knowledge](knowledge.md): Traditionally requires belief plus truth and justification
 - [Truth](truth.md): What belief aims at (when epistemically rational)
-- [Justification](justification.md) ⚠️ Placeholder: What makes beliefs reasonable to hold
+- [Justification](justification.md): What makes beliefs reasonable to hold
 - [Skepticism](skepticism.md): Challenges to belief and knowledge
 - [Faith](../philosophy-religion/faith.md) ⚠️ Placeholder: Belief beyond or despite evidence
 

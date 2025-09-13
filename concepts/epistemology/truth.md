@@ -136,7 +136,7 @@ Theories of truth have consequences for:
 ## Related Concepts
 - [Knowledge](knowledge.md): Traditionally requires truth
 - [Belief](belief.md): Can be true or false
-- [Justification](justification.md) ⚠️ Placeholder: Aims at truth but may fall short
+- [Justification](justification.md): Aims at truth but may fall short
 - [Reality](../metaphysics/reality.md) ⚠️ Placeholder: What truth corresponds to
 - [Objectivity](objectivity.md) ⚠️ Placeholder: Truth's independence from opinion
 

@@ -48,9 +48,9 @@ Classical logical axioms are the fundamental principles that govern valid reason
 - [Logic](logic.md)
 - [Validity](validity.md)
 - [Soundness](soundness.md)
-- [Contradiction](contradiction.md) ⚠️ Placeholder
+- [Contradiction](contradiction.md)
 - [Tautology](tautology.md) ⚠️ Placeholder
-- [Inference](inference.md) ⚠️ Placeholder
+- [Inference](inference.md)
 
 
 ## Philosophical Significance
