@@ -32,14 +32,14 @@ Aristotle’s philosophy is marked by a commitment to empirical observation and 
 - [Axiom](../concepts/logic/axiom.md)
 - [First Principles](../concepts/meta-philosophy/first-principles.md)
 - [Classical Logical Axioms](../concepts/logic/classical-logical-axioms.md)
-- [Virtue](../concepts/meta-philosophy/foundation.md) ⚠️ Placeholder *(or future ethics section)*
+- [Virtue](../concepts/meta-philosophy/foundation.md) *(or future ethics section)*
 - [Contradiction](../concepts/logic/contradiction.md)
 - [Deduction](../concepts/logic/deduction.md)
 - [Soundness](../concepts/logic/soundness.md)
 
 ## Key Arguments
 - [Defense of the Law of Non-Contradiction](../arguments/aristotle-defense-law-non-contradiction.md)
-- [Four Causes](../concepts/meta-philosophy/aristotelian-causation.md) ⚠️ Placeholder
+- [Four Causes](../concepts/meta-philosophy/aristotelian-causation.md)
 - [Transcendental Arguments](../arguments/transcendental-arguments.md) *(method inspired by Aristotle)*
 
 ## Context

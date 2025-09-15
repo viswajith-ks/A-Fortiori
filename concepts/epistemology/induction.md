@@ -22,7 +22,7 @@ See [The Problem of Induction](../../arguments/problem-of-induction.md) for skep
 - [Deduction](../logic/deduction.md)
 - [Inference](../logic/inference.md)
 - [Justification](justification.md)
-- [Certainty](certainty.md) ⚠️ Placeholder
+- [Certainty](certainty.md)
 - [Problem of Induction](../../arguments/problem-of-induction.md)
 
 ## Key Questions

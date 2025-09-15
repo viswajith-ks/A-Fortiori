@@ -31,7 +31,7 @@ Hume asked: On what rational basis do we infer general laws from past experience
 - [Induction](../concepts/epistemology/induction.md)
 - [Justification](../concepts/epistemology/justification.md)
 - [Skepticism](../concepts/epistemology/skepticism.md)
-- [Certainty](../concepts/epistemology/certainty.md) ⚠️ Placeholder
+- [Certainty](../concepts/epistemology/certainty.md)
 - [Perception](../concepts/epistemology/perception.md) ⚠️ Placeholder
 
 ## Key Questions

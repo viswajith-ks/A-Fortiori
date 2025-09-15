@@ -29,7 +29,7 @@ These are arguments that begin with an uncontroversial fact about experience or 
 ## Related Concepts
 - [Methodological Doubt](../concepts/meta-philosophy/methodological-doubt.md) ⚠️ Placeholder
 - [Deduction](../concepts/logic/deduction.md)
-- [Certainty](../concepts/epistemology/certainty.md) ⚠️ Placeholder
+- [Certainty](../concepts/epistemology/certainty.md)
 - [Aristotle’s Four Causes](../meta-philosophy/aristotelian-causation.md) ⚠️ Placeholder
 
 ## Key Questions

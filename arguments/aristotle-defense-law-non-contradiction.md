@@ -51,13 +51,13 @@ Written in *Metaphysics* Book Gamma, this argument establishes the LNC as the mo
 - **Infinite regress**: The defense itself relies on principles that might need defense
 
 ## Responses and Developments
-- [Paraconsistent Logic](../concepts/logic/paraconsistent-logic.md) ⚠️ Placeholder: Accepts some contradictions without logical explosion
+- [Paraconsistent Logic](../concepts/logic/paraconsistent-logic.md): Accepts some contradictions without logical explosion
 - [Buddhist Logic](../concepts/logic/buddhist-logic.md) ⚠️ Placeholder: Tetralemma allows for middle positions between contradiction
 - [Modern Defenders](../thinkers/modern-defenders.md) ⚠️ Placeholder: Contemporary logicians like Graham Priest challenge classical approaches
 
 
 ## Related Arguments
-- [Principle of Explosion](../concepts/logic/principle-of-explosion.md) ⚠️ Placeholder
+- [Principle of Explosion](../concepts/logic/principle-of-explosion.md)
 - [Descartes' Cogito](../thinkers/descartes-cogito.md) ⚠️ Placeholder
 - [Transcendental Arguments](transcendental-arguments.md)
 
