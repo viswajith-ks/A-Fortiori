@@ -40,6 +40,7 @@ A-Fortiori/
 ├── concepts/
 │   ├── epistemology/
 │   │   ├── belief.md
+│   │   ├── certainty.md
 │   │   ├── induction.md
 │   │   ├── justification.md
 │   │   ├── knowledge.md
@@ -52,11 +53,15 @@ A-Fortiori/
 │   │   ├── deduction.md
 │   │   ├── inference.md
 │   │   ├── logic.md
+│   │   ├── paraconsistent-logic.md
+│   │   ├── principle-of-explosion.md
 │   │   ├── proof.md
 │   │   ├── soundness.md
 │   │   └── validity.md
 │   ├── meta-philosophy/
-│   │   └── first-principles.md
+│   │   ├── aristotelian-causation.md
+│   │   ├── first-principles.md
+│   │   └── foundation.md
 │   ├── metaphysics/
 │   └── philosophy-religion/
 ├── questions/
