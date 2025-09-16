@@ -37,7 +37,7 @@ Confidence sufficient for action despite theoretical doubt:
 ## Historical Approaches
 
 ### Cartesian Certainty
-Descartes sought indubitable foundations through [methodological doubt](../meta-philosophy/methodological-doubt.md) ⚠️ Placeholder:
+Descartes sought indubitable foundations through [methodological doubt](../meta-philosophy/methodological-doubt.md):
 - Doubt everything possible
 - Find what cannot be doubted (*cogito ergo sum*)
 - Build knowledge on certain foundations
@@ -139,7 +139,7 @@ The agnostic approach exemplifies appropriate caution about certainty:
 ## Related Concepts
 - [Knowledge](knowledge.md)
 - [Skepticism](skepticism.md)
-- [Doubt](../meta-philosophy/methodological-doubt.md) ⚠️ Placeholder
+- [Doubt](../meta-philosophy/methodological-doubt.md)
 - [Justification](justification.md)
 - [Truth](truth.md)
 

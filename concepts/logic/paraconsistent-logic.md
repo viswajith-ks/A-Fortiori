@@ -41,7 +41,7 @@ Challenges the [Law of Non-Contradiction](classical-logical-axioms.md) as absolu
 - [Principle of Explosion](principle-of-explosion.md)
 - [Contradiction](contradiction.md)
 - [Classical Logical Axioms](classical-logical-axioms.md)
-- [Buddhist Logic](buddhist-logic.md) ⚠️ Placeholder
+- [Buddhist Logic](buddhist-logic.md)
 
 ## Connection to A Fortiori
 Demonstrates how challenging foundational assumptions can lead to new logical systems—exemplifying reasoning "a fortiori" to unexpected conclusions.

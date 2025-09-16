@@ -78,7 +78,7 @@ Direct experiential knowledge: "I know Paris" (have visited)
 
 ## Sources of Knowledge
 
-### [Perception](perception.md) ⚠️ Placeholder
+### [Perception](perception.md)
 Knowledge through the five senses
 - Most basic source of empirical knowledge
 - Subject to illusions and hallucinations
@@ -131,7 +131,7 @@ Challenges specific domains of knowledge
 - [Belief](belief.md): Psychological state required for knowledge
 - [Justification](justification.md): Rational support for belief
 - [Skepticism](skepticism.md): Challenge to knowledge claims
-- [Perception](perception.md) ⚠️ Placeholder: Primary source of empirical knowledge
+- [Perception](perception.md): Primary source of empirical knowledge
 
 ## Significance for A Fortiori
 Understanding knowledge is crucial for evaluating philosophical arguments. When analyzing claims, we must ask: Is this knowledge or mere belief? What justifies these premises? How reliable are our sources of information?

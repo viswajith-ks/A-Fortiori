@@ -80,7 +80,7 @@ Understanding Aristotelian causation helps evaluate:
 ## Related Concepts
 - [First Principles](first-principles.md)
 - [Aristotle](../../thinkers/aristotle.md)
-- [Reduction](reduction.md) ⚠️ Placeholder
+- [Reduction](reduction.md)
 - [Foundation](foundation.md)
 
 ## Key Questions

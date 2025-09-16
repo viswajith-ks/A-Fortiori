@@ -44,10 +44,13 @@ A-Fortiori/
 │   │   ├── induction.md
 │   │   ├── justification.md
 │   │   ├── knowledge.md
+│   │   ├── objectivity.md
+│   │   ├── perception.md
 │   │   ├── skepticism.md
 │   │   └── truth.md
 │   ├── logic/
 │   │   ├── axiom.md
+│   │   ├── buddhist-logic.md
 │   │   ├── classical-logical-axioms.md
 │   │   ├── contradiction.md
 │   │   ├── deduction.md
@@ -61,7 +64,9 @@ A-Fortiori/
 │   ├── meta-philosophy/
 │   │   ├── aristotelian-causation.md
 │   │   ├── first-principles.md
-│   │   └── foundation.md
+│   │   ├── foundation.md
+│   │   ├── methodological-doubt.md
+│   │   └── reduction.md
 │   ├── metaphysics/
 │   └── philosophy-religion/
 ├── questions/

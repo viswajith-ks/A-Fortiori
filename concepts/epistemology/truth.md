@@ -138,7 +138,7 @@ Theories of truth have consequences for:
 - [Belief](belief.md): Can be true or false
 - [Justification](justification.md): Aims at truth but may fall short
 - [Reality](../metaphysics/reality.md) ⚠️ Placeholder: What truth corresponds to
-- [Objectivity](objectivity.md) ⚠️ Placeholder: Truth's independence from opinion
+- [Objectivity](objectivity.md): Truth's independence from opinion
 
 ## Significance for A Fortiori
 As an agnostic evaluating arguments, understanding theories of truth is crucial. Different conceptions of truth affect how we evaluate premises, assess evidence, and determine what counts as a sound argument. Truth theories also illuminate the relationship between logical validity and actual knowledge.

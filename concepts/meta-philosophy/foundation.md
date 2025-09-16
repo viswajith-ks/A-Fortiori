@@ -69,8 +69,8 @@ This project embodies foundationalist methodology:
 - [First Principles](first-principles.md)
 - [Axiom](../logic/axiom.md)
 - [Justification](../epistemology/justification.md)
-- [Methodological Doubt](methodological-doubt.md) ⚠️ Placeholder
-- [Reduction](reduction.md) ⚠️ Placeholder
+- [Methodological Doubt](methodological-doubt.md)
+- [Reduction](reduction.md)
 
 ## Key Questions
 - Are foundations necessary for knowledge?

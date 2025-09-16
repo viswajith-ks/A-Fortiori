@@ -52,7 +52,7 @@ Written in *Metaphysics* Book Gamma, this argument establishes the LNC as the mo
 
 ## Responses and Developments
 - [Paraconsistent Logic](../concepts/logic/paraconsistent-logic.md): Accepts some contradictions without logical explosion
-- [Buddhist Logic](../concepts/logic/buddhist-logic.md) ⚠️ Placeholder: Tetralemma allows for middle positions between contradiction
+- [Buddhist Logic](../concepts/logic/buddhist-logic.md): Tetralemma allows for middle positions between contradiction
 - [Modern Defenders](../thinkers/modern-defenders.md) ⚠️ Placeholder: Contemporary logicians like Graham Priest challenge classical approaches
 
 
