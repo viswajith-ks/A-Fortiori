@@ -184,7 +184,7 @@ Neither believing nor disbelieving
 - [Truth](truth.md): What belief aims at (when epistemically rational)
 - [Justification](justification.md): What makes beliefs reasonable to hold
 - [Skepticism](skepticism.md): Challenges to belief and knowledge
-- [Faith](../philosophy-religion/faith.md) ⚠️ Placeholder: Belief beyond or despite evidence
+- [Faith](../philosophy-religion/faith.md): Belief beyond or despite evidence
 
 ## Significance for A Fortiori
 Understanding belief is crucial for philosophical analysis. When evaluating arguments, we must distinguish between what we believe, what we know, and what we merely assume. The psychology of belief affects how we process evidence and form judgments about philosophical questions.

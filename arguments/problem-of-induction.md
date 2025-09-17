@@ -1,7 +1,7 @@
 # The Problem of Induction
 
 **Type:** Philosophical challenge (skeptical argument)  
-**Target:** [Inductive reasoning](../concepts/epistemology/induction.md), [Epistemology](../concepts/epistemology/knowledge.md), [Science](../concepts/metaphysics/reality.md) ⚠️ Placeholder  
+**Target:** [Inductive reasoning](../concepts/epistemology/induction.md), [Epistemology](../concepts/epistemology/knowledge.md), [Science](../concepts/metaphysics/reality.md)  
 **Philosopher:** [David Hume](../thinkers/david-hume.md) ⚠️ Placeholder, early empiricists
 
 ## What Is Induction?

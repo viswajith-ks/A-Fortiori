@@ -137,7 +137,7 @@ Theories of truth have consequences for:
 - [Knowledge](knowledge.md): Traditionally requires truth
 - [Belief](belief.md): Can be true or false
 - [Justification](justification.md): Aims at truth but may fall short
-- [Reality](../metaphysics/reality.md) ⚠️ Placeholder: What truth corresponds to
+- [Reality](../metaphysics/reality.md): What truth corresponds to
 - [Objectivity](objectivity.md): Truth's independence from opinion
 
 ## Significance for A Fortiori
