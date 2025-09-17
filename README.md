@@ -68,7 +68,12 @@ A-Fortiori/
 │   │   ├── methodological-doubt.md
 │   │   └── reduction.md
 │   ├── metaphysics/
+│   │   ├── metaphysics.md
+│   │   └── reality.md
 │   └── philosophy-religion/
+│       ├── agnosticism.md
+│       ├── faith.md
+│       └── religion.md
 ├── questions/
 ├── sources/
 └── thinkers/
