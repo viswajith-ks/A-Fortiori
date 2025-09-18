@@ -45,7 +45,7 @@ method became central to modern epistemology.
 - [Certainty](../epistemology/certainty.md)
 - [Skepticism](../epistemology/skepticism.md)
 - [Foundation](foundation.md)
-- [Descartes](../../thinkers/descartes-cogito.md) ⚠️ Placeholder
+- [Descartes](../../thinkers/descartes-cogito.md)
 - [First Principles](first-principles.md)
 - [Doubt](../epistemology/skepticism.md)
 

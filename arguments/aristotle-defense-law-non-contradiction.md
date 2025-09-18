@@ -53,12 +53,12 @@ Written in *Metaphysics* Book Gamma, this argument establishes the LNC as the mo
 ## Responses and Developments
 - [Paraconsistent Logic](../concepts/logic/paraconsistent-logic.md): Accepts some contradictions without logical explosion
 - [Buddhist Logic](../concepts/logic/buddhist-logic.md): Tetralemma allows for middle positions between contradiction
-- [Modern Defenders](../thinkers/modern-defenders.md) ⚠️ Placeholder: Contemporary logicians like Graham Priest challenge classical approaches
+- [Modern Defenders](../thinkers/modern-defenders.md): Contemporary logicians like Graham Priest challenge classical approaches
 
 
 ## Related Arguments
 - [Principle of Explosion](../concepts/logic/principle-of-explosion.md)
-- [Descartes' Cogito](../thinkers/descartes-cogito.md) ⚠️ Placeholder
+- [Descartes' Cogito](../thinkers/descartes-cogito.md)
 - [Transcendental Arguments](transcendental-arguments.md)
 
 

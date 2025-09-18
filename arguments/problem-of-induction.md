@@ -2,7 +2,7 @@
 
 **Type:** Philosophical challenge (skeptical argument)  
 **Target:** [Inductive reasoning](../concepts/epistemology/induction.md), [Epistemology](../concepts/epistemology/knowledge.md), [Science](../concepts/metaphysics/reality.md)  
-**Philosopher:** [David Hume](../thinkers/david-hume.md) ⚠️ Placeholder, early empiricists
+**Philosopher:** [David Hume](../thinkers/david-hume.md), early empiricists
 
 ## What Is Induction?
 Induction is reasoning from particular observations to general principles or predictions, fundamental to science and everyday life: e.g., "The sun has risen every day; therefore, it will rise tomorrow."

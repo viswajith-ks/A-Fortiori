@@ -77,7 +77,14 @@ A-Fortiori/
 ├── questions/
 ├── sources/
 └── thinkers/
-    └── aristotle.md
+    ├── aristotle.md
+    ├── david-hume.md
+    ├── descartes-cogito.md
+    ├── kant.md
+    ├── modern-defenders.md
+    └── strawson.md
 ```
-#### **⏳This is a work in progress...**
+# Placeholder
 
+This entry has not been written yet.
+Content will be added in the future.
