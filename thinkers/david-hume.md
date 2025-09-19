@@ -107,7 +107,7 @@ Hume applied empirical methodology consistently, arguing that all knowledge come
 ## Related Concepts
 - [Induction](../concepts/epistemology/induction.md)
 - [Skepticism](../concepts/epistemology/skepticism.md)
-- [Causation](../concepts/metaphysics/causation.md) ⚠️ Placeholder
+- [Causation](../concepts/metaphysics/causation.md)
 - [Knowledge](../concepts/epistemology/knowledge.md)
 - [Belief](../concepts/epistemology/belief.md)
 - [Perception](../concepts/epistemology/perception.md)

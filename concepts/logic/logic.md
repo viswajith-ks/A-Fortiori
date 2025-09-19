@@ -54,7 +54,7 @@ Logic examines several fundamental relationships:
 - [Inference](inference.md)
 - [Proof](proof.md)
 - [Contradiction](contradiction.md)
-- [Tautology](tautology.md) ⚠️ Placeholder
+- [Tautology](tautology.md)
 
 ## Philosophical Significance
 Logic raises deep questions about the nature of reasoning itself:

@@ -57,9 +57,11 @@ A-Fortiori/
 │   │   ├── inference.md
 │   │   ├── logic.md
 │   │   ├── paraconsistent-logic.md
+│   │   ├── postulate.md
 │   │   ├── principle-of-explosion.md
 │   │   ├── proof.md
 │   │   ├── soundness.md
+│   │   ├── tautology.md
 │   │   └── validity.md
 │   ├── meta-philosophy/
 │   │   ├── aristotelian-causation.md
@@ -68,6 +70,7 @@ A-Fortiori/
 │   │   ├── methodological-doubt.md
 │   │   └── reduction.md
 │   ├── metaphysics/
+│   │   ├── causation.md
 │   │   ├── metaphysics.md
 │   │   └── reality.md
 │   └── philosophy-religion/

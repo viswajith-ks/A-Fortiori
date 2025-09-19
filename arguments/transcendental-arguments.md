@@ -1,7 +1,7 @@
 # Transcendental Arguments
 
 **Type:** Philosophical method / argument  
-**Target:** [Logic](../concepts/logic/logic.md), [Epistemology](../epistemology/knowledge.md) ⚠️ Placeholder, [Metaphysics](../metaphysics/metaphysics.md)  
+**Target:** [Logic](../concepts/logic/logic.md), [Epistemology](../concepts/epistemology/knowledge.md), [Metaphysics](../concepts/metaphysics/metaphysics.md)  
 **Philosophers:** [Kant](../thinkers/kant.md), [Strawson](../thinkers/strawson.md), [Aristotle](../thinkers/aristotle.md)
 
 ## What Are Transcendental Arguments?

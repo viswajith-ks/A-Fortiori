@@ -17,7 +17,7 @@ A proof is a logically valid sequence of statements beginning with axioms or pre
 ## Related Concepts
 - [Axiom](axiom.md)
 - [Deduction](deduction.md)
-- [Tautology](tautology.md) ⚠️ Placeholder
+- [Tautology](tautology.md)
 - [Contradiction](contradiction.md)
 
 ## Key Questions

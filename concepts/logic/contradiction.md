@@ -17,7 +17,7 @@ A contradiction is the simultaneous assertion of a statement and its negation; i
 
 ## Related Concepts
 - [Axiom](axiom.md)
-- [Tautology](tautology.md) ⚠️ Placeholder
+- [Tautology](tautology.md)
 - [Proof](proof.md)
 
 ## Key Questions
