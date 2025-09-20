@@ -19,7 +19,7 @@ Perception is the process by which living beings acquire knowledge through the s
 - To what degree does the mind construct or filter perceptual experience?
 
 ## Skeptical Challenges
-- [Dreaming Argument](../../arguments/descartes-dreaming-argument.md) ⚠️ Placeholder: How do we distinguish dreams from reality?
+- [Dreaming Argument](../../arguments/descartes-dreaming-argument.md): How do we distinguish dreams from reality?
 - Cartesian demon/brain in a vat: Are perceptions trustworthy at all?
 
 ## Related Concepts

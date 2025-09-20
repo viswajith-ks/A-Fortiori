@@ -71,7 +71,7 @@ Any attempt at justification faces:
 - Brains kept alive and stimulated to produce experiences
 - Matrix-like scenario of simulated reality
 
-### [Dreaming Argument](../../arguments/descartes-dreaming-argument.md) ⚠️ Placeholder
+### [Dreaming Argument](../../arguments/descartes-dreaming-argument.md)
 - How do we know we're not dreaming now?
 - Dreams can seem completely realistic
 - No definitive marks distinguish waking from dreaming

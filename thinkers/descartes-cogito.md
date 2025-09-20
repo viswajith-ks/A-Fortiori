@@ -55,7 +55,7 @@ Descartes sought to establish philosophy on absolutely certain foundations using
 - [Knowledge](../concepts/epistemology/knowledge.md)
 
 ## Key Arguments
-- [Cogito Argument](../arguments/descartes-dreaming-argument.md) ⚠️ Placeholder: Self-evident existence of thinking self
+- [Cogito Argument](../arguments/descartes-dreaming-argument.md): Self-evident existence of thinking self
 - [Ontological Argument](../arguments/descartes-ontological-argument.md) ⚠️ Placeholder: God's existence from concept of perfection
 - [Causal Argument for God](../arguments/descartes-causal-argument.md) ⚠️ Placeholder: Idea of infinite being requires infinite cause
 - [Argument for External World](../arguments/descartes-external-world.md) ⚠️ Placeholder: God's trustworthiness guarantees material world

@@ -33,6 +33,7 @@ A-Fortiori/
 ├── README.md
 ├── arguments/
 │   ├── aristotle-defense-law-non-contradiction.md
+│   ├── descartes-dreaming-argument.md
 │   ├── problem-of-induction.md
 │   └── transcendental-arguments.md
 ├── assets/
