@@ -158,7 +158,7 @@ Kant sought to navigate between empiricist skepticism and rationalist dogmatism 
 - [Transcendental Arguments](../arguments/transcendental-arguments.md)
 - [Antinomies of Pure Reason](../arguments/kant-antinomies.md) ⚠️ Placeholder
 - [Moral Argument for God](../arguments/kant-moral-argument.md) ⚠️ Placeholder
-- [Categorical Imperative](../arguments/categorical-imperative.md) ⚠️ Placeholder
+- [Categorical Imperative](../arguments/categorical-imperative.md)
 
 ## Historical Context
 Writing during the Enlightenment, Kant sought to preserve both scientific knowledge and moral responsibility against Humean skepticism and materialist determinism. His "critical philosophy" aimed to establish secure foundations for knowledge while limiting reason's pretensions.

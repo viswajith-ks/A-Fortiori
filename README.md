@@ -33,6 +33,7 @@ A-Fortiori/
 ├── README.md
 ├── arguments/
 │   ├── aristotle-defense-law-non-contradiction.md
+│   ├── categorical-imperative.md
 │   ├── descartes-dreaming-argument.md
 │   ├── hume-causation.md
 │   ├── problem-of-induction.md
@@ -50,6 +51,7 @@ A-Fortiori/
 │   │   ├── perception.md
 │   │   ├── skepticism.md
 │   │   └── truth.md
+│   ├── ethics/
 │   ├── logic/
 │   │   ├── axiom.md
 │   │   ├── buddhist-logic.md
