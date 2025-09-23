@@ -37,7 +37,8 @@ A-Fortiori/
 │   ├── descartes-dreaming-argument.md
 │   ├── hume-causation.md
 │   ├── problem-of-induction.md
-│   └── transcendental-arguments.md
+│   ├── transcendental-arguments.md
+│   └── transcendental-deduction.md
 ├── assets/
 │   └── thinkers
 ├── concepts/

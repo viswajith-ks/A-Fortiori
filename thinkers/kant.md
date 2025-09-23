@@ -154,7 +154,7 @@ Kant sought to navigate between empiricist skepticism and rationalist dogmatism 
 - [Skepticism](../concepts/epistemology/skepticism.md)
 
 ## Key Arguments
-- [Transcendental Deduction](../arguments/transcendental-deduction.md) ⚠️ Placeholder
+- [Transcendental Deduction](../arguments/transcendental-deduction.md)
 - [Transcendental Arguments](../arguments/transcendental-arguments.md)
 - [Antinomies of Pure Reason](../arguments/kant-antinomies.md) ⚠️ Placeholder
 - [Moral Argument for God](../arguments/kant-moral-argument.md) ⚠️ Placeholder
