@@ -189,4 +189,4 @@ The transcendental deduction exemplifies systematic reasoning from undeniable pr
 - Longuenesse, Béatrice. *Kant and the Capacity to Judge*
 
 **Tags:** `#kant` `#transcendental-deduction` `#categories` `#unity-consciousness` `#synthetic-a-priori` `#objectivity`  
-**Last Updated:** 2025-09-20  
+**Last Updated:** 2025-09-23  

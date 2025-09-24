@@ -199,4 +199,4 @@ The categorical imperative exemplifies systematic reasoning from rational [first
 - Wood, Allen. *Kantian Ethics*
 
 **Tags:** `#kant` `#categorical-imperative` `#duty` `#universalizability` `#autonomy` `#dignity` `#deontological`  
-**Last Updated:** 2025-09-20  
+**Last Updated:** 2025-09-22  
