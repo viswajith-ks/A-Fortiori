@@ -117,7 +117,7 @@ Hume applied empirical methodology consistently, arguing that all knowledge come
 - [Problem of Induction](../arguments/problem-of-induction.md)
 - [Critique of Causation](../arguments/hume-causation.md)
 - [Miracles Argument](../arguments/hume-miracles.md) ⚠️ Placeholder
-- [Is-Ought Problem](../arguments/is-ought-problem.md) ⚠️ Placeholder
+- [Is-Ought Problem](../arguments/is-ought-problem.md)
 
 ## Historical Context
 Writing during the Enlightenment, Hume applied scientific method to human nature itself. His skeptical conclusions challenged both religious orthodoxy and rationalist philosophy, helping establish empiricism as major philosophical tradition.

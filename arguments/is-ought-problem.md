@@ -177,12 +177,12 @@ Can we legitimately derive statements about what we *ought* to do from statement
 - **Connection**: Relates to whether moral facts can be purely descriptive
 
 ## Related Concepts
-- [Naturalistic Fallacy](../concepts/ethics/naturalistic-fallacy.md): Moore's critique of naturalism
-- [Moral Realism](../concepts/ethics/moral-realism.md): Metaethical position about moral facts
-- [Expressivism](../concepts/ethics/expressivism.md): Non-cognitivist response to is-ought problem
-- [Thick Concepts](../concepts/ethics/thick-concepts.md): Concepts combining description and evaluation
-- [Natural Law](../concepts/ethics/natural-law.md): Traditional target of is-ought critique
-- [Constructivism](../concepts/ethics/constructivism.md): Procedural approach to normativity
+- [Naturalistic Fallacy](../concepts/ethics/naturalistic-fallacy.md) ⚠️ Placeholder: Moore's critique of naturalism
+- [Moral Realism](../concepts/ethics/moral-realism.md) ⚠️ Placeholder: Metaethical position about moral facts
+- [Expressivism](../concepts/ethics/expressivism.md) ⚠️ Placeholder: Non-cognitivist response to is-ought problem
+- [Thick Concepts](../concepts/ethics/thick-concepts.md) ⚠️ Placeholder: Concepts combining description and evaluation
+- [Natural Law](../concepts/ethics/natural-law.md) ⚠️ Placeholder: Traditional target of is-ought critique
+- [Constructivism](../concepts/ethics/constructivism.md) ⚠️ Placeholder: Procedural approach to normativity
 
 ## Significance for A Fortiori
 The is-ought problem exemplifies careful logical analysis revealing hidden assumptions in apparently valid arguments. Hume's insight demonstrates the importance of examining the logical structure of reasoning - a principle central to systematic approach to philosophical arguments.
