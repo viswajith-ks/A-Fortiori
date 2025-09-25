@@ -111,7 +111,7 @@ Therefore, we cannot have perceptual knowledge of the external world based on cu
 - **Scope**: Dreaming argument limited to perception; demon argument universal
 - **Method**: Both serve [methodological doubt](../concepts/meta-philosophy/methodological-doubt.md) in finding certainty
 
-### [Cogito Ergo Sum](descartes-cogito.md) ⚠️ Placeholder  
+### [Cogito Ergo Sum](descartes-cogito.md)  
 - **Response**: Thinking survives dream doubt - "I think" remains certain
 - **Foundation**: Cogito provides indubitable starting point after dream doubt
 - **Reconstruction**: Build knowledge on certain foundation of thinking self

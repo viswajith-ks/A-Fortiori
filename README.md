@@ -34,6 +34,7 @@ A-Fortiori/
 ├── arguments/
 │   ├── aristotle-defense-law-non-contradiction.md
 │   ├── categorical-imperative.md
+│   ├── descartes-cogito.md
 │   ├── descartes-dreaming-argument.md
 │   ├── hume-causation.md
 │   ├── is-ought-problem.md
