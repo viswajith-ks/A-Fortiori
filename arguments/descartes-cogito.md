@@ -171,7 +171,7 @@
 - [Methodological Doubt](../concepts/meta-philosophy/methodological-doubt.md): Method leading to cogito
 - [Dreaming Argument](descartes-dreaming-argument.md): Skeptical challenge cogito answers
 - [Evil Demon](descartes-evil-demon.md) ⚠️ Placeholder: Radical doubt scenario
-- [External World Problem](descartes-external-world.md) ⚠️ Placeholder: Challenge cogito doesn't resolve
+- [External World Problem](descartes-external-world.md): Challenge cogito doesn't resolve
 
 ## Related Concepts
 - [Certainty](../concepts/epistemology/certainty.md): What cogito achieves

@@ -58,7 +58,7 @@ Descartes sought to establish philosophy on absolutely certain foundations using
 - [Cogito Argument](../arguments/descartes-dreaming-argument.md): Self-evident existence of thinking self
 - [Ontological Argument](../arguments/descartes-ontological-argument.md) ⚠️ Placeholder: God's existence from concept of perfection
 - [Causal Argument for God](../arguments/descartes-causal-argument.md) ⚠️ Placeholder: Idea of infinite being requires infinite cause
-- [Argument for External World](../arguments/descartes-external-world.md) ⚠️ Placeholder: God's trustworthiness guarantees material world
+- [Argument for External World](../arguments/descartes-external-world.md): God's trustworthiness guarantees material world
 
 ## Historical Context
 Writing during the Scientific Revolution, Descartes sought to provide philosophical foundations for the new mathematical physics. His work bridged medieval Scholasticism and modern philosophy, introducing systematic doubt while maintaining belief in God and immortal soul.

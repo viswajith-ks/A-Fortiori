@@ -36,6 +36,7 @@ A-Fortiori/
 │   ├── categorical-imperative.md
 │   ├── descartes-cogito.md
 │   ├── descartes-dreaming-argument.md
+│   ├── descartes-external-world.md
 │   ├── hume-causation.md
 │   ├── is-ought-problem.md
 │   ├── problem-of-induction.md
