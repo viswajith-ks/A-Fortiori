@@ -106,7 +106,7 @@ Therefore, we cannot have perceptual knowledge of the external world based on cu
 
 ## Relationship to Other Arguments
 
-### [Evil Demon Hypothesis](descartes-evil-demon.md) ⚠️ Placeholder
+### [Evil Demon Hypothesis](descartes-evil-demon.md)
 - **Escalation**: Dreams challenge sensory knowledge; demon challenges all knowledge
 - **Scope**: Dreaming argument limited to perception; demon argument universal
 - **Method**: Both serve [methodological doubt](../concepts/meta-philosophy/methodological-doubt.md) in finding certainty

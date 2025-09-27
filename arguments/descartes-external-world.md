@@ -33,7 +33,7 @@ external material world?
 
 - **Veil of perception**: Only direct access to mental representations
 - **Representationalism**: Ideas represent but don't guarantee external objects
-- **Systematic deception**: [Evil demon](descartes-evil-demon.md) ⚠️ Placeholder scenarios
+- **Systematic deception**: [Evil demon](descartes-evil-demon.md) scenarios
   remain possible
 - **Causal isolation**: How can material world cause mental ideas?
 
@@ -236,7 +236,7 @@ Therefore, material world of extended substances exists independently of mind.
 ## Related Arguments
 
 - [Cogito Ergo Sum](descartes-cogito.md): Foundation for external world argument
-- [Evil Demon](descartes-evil-demon.md) ⚠️ Placeholder: Skeptical challenge to external world
+- [Evil Demon](descartes-evil-demon.md): Skeptical challenge to external world
 - [Dreaming Argument](descartes-dreaming-argument.md): Specific challenge to
   sensory knowledge
 - [Transcendental Arguments](transcendental-arguments.md): Alternative approach

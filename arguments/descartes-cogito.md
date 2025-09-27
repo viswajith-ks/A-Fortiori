@@ -12,7 +12,7 @@
 ### The Method of Doubt
 1. **Systematic doubt**: Question all beliefs that could possibly be false
 2. **[Dreaming argument](descartes-dreaming-argument.md)**: Sensory experience unreliable
-3. **[Evil demon hypothesis](descartes-evil-demon.md) ⚠️ Placeholder**: Even mathematical truths could be deceptions
+3. **[Evil demon hypothesis](descartes-evil-demon.md)**: Even mathematical truths could be deceptions
 4. **Universal doubt**: Attempt to doubt everything possible
 
 ### The Self-Refuting Nature of Doubt
@@ -170,7 +170,7 @@
 ## Related Arguments
 - [Methodological Doubt](../concepts/meta-philosophy/methodological-doubt.md): Method leading to cogito
 - [Dreaming Argument](descartes-dreaming-argument.md): Skeptical challenge cogito answers
-- [Evil Demon](descartes-evil-demon.md) ⚠️ Placeholder: Radical doubt scenario
+- [Evil Demon](descartes-evil-demon.md): Radical doubt scenario
 - [External World Problem](descartes-external-world.md): Challenge cogito doesn't resolve
 
 ## Related Concepts
