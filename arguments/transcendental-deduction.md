@@ -168,7 +168,7 @@ How can we show that fundamental concepts like causation, substance, and unity a
 
 ## Related Concepts
 - [Transcendental Arguments](../arguments/transcendental-arguments.md): Methodological approach
-- [Synthetic A Priori](../concepts/epistemology/synthetic-a-priori.md) ⚠️ Placeholder: Type of knowledge established
+- [Synthetic A Priori](../concepts/epistemology/synthetic-a-priori.md): Type of knowledge established
 - [Objectivity](../concepts/epistemology/objectivity.md): What the deduction aims to secure
 - [Unity of Consciousness](../concepts/mind/unity-consciousness.md) ⚠️ Placeholder: Starting point of argument
 - [Categories](../concepts/logic/categories.md) ⚠️ Placeholder: Concepts whose validity is demonstrated

@@ -55,6 +55,7 @@ A-Fortiori/
 │   │   ├── objectivity.md
 │   │   ├── perception.md
 │   │   ├── skepticism.md
+│   │   ├── synthetic-a-priori.md
 │   │   └── truth.md
 │   ├── ethics/
 │   ├── logic/
