@@ -80,11 +80,11 @@ external material world?
 
 ### Intermediate Steps
 
-6. **Systematic deception would make God a deceiver** (contradicts perfection)
-7. **Therefore, natural inclinations and clear rational perceptions are
+1. **Systematic deception would make God a deceiver** (contradicts perfection)
+2. **Therefore, natural inclinations and clear rational perceptions are
    generally reliable**
-8. **Senses indicate existence of extended, figured, moving objects**
-9. **Reason confirms mathematical properties of material world**
+3. **Senses indicate existence of extended, figured, moving objects**
+4. **Reason confirms mathematical properties of material world**
 
 ### Conclusion
 

@@ -26,9 +26,9 @@ This project is structured as a modular knowledge base. The goal is for ideas to
 
 To create a web of ideas, I make heavy use of Markdown links to connect concepts, arguments, and thinkers.
 
+## Directory tree (placeholders skipped)
 
-## Directory tree (placeholders skipped):
-```
+```sh
 A-Fortiori/
 ├── README.md
 ├── arguments/
