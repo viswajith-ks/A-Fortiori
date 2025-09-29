@@ -6,7 +6,7 @@
 Synthetic a priori knowledge consists of propositions that are both informative about the world (synthetic) and knowable independently of particular experience (a priori).
 
 ## Description
-[Kant's](../../thinkers/kant.md) concept of synthetic a priori knowledge revolutionarily challenged the traditional distinction between analytic truths (known by analysis of concepts) and synthetic truths (known by experience). Kant argued that some knowledge is both substantive about reality and knowable through [reason](../meta-philosophy/reason.md) ⚠️ Placeholder alone, providing the foundation for mathematics, pure natural science, and metaphysics.
+[Kant's](../../thinkers/kant.md) concept of synthetic a priori knowledge revolutionarily challenged the traditional distinction between analytic truths (known by analysis of concepts) and synthetic truths (known by experience). Kant argued that some knowledge is both substantive about reality and knowable through [reason](../meta-philosophy/reason.md) alone, providing the foundation for mathematics, pure natural science, and metaphysics.
 
 ## The Traditional Distinction
 
@@ -220,7 +220,7 @@ Synthetic a priori knowledge consists of propositions that are both informative 
 ## Related Concepts
 - [A Priori Knowledge](a-priori.md) ⚠️ Placeholder: Knowledge independent of experience
 - [Necessity](../metaphysics/necessity.md) ⚠️ Placeholder: What must be true
-- [Reason](../meta-philosophy/reason.md) ⚠️ Placeholder: Faculty that knows synthetic a priori truths
+- [Reason](../meta-philosophy/reason.md): Faculty that knows synthetic a priori truths
 - [Categories](../logic/categories.md) ⚠️ Placeholder: Fundamental concepts structuring experience
 - [Transcendental Arguments](../../arguments/transcendental-arguments.md): Method for establishing synthetic a priori principles
 - [Mathematical Knowledge](mathematical-knowledge.md) ⚠️ Placeholder: Paradigm case of synthetic a priori

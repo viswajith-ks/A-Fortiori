@@ -180,7 +180,7 @@ How can we establish objective moral principles that apply to all rational being
 - [Dignity](../concepts/ethics/dignity.md) ⚠️ Placeholder: Inherent worth of rational beings
 - [Universalizability](../concepts/ethics/universalizability.md) ⚠️ Placeholder: Test for moral maxims
 - [Good Will](../concepts/ethics/good-will.md) ⚠️ Placeholder: Only unconditionally good thing
-- [Reason](../concepts/meta-philosophy/reason.md) ⚠️ Placeholder: Foundation for moral law
+- [Reason](../concepts/meta-philosophy/reason.md): Foundation for moral law
 
 ## Significance for A Fortiori
 The categorical imperative exemplifies systematic reasoning from rational [first principles](../concepts/meta-philosophy/first-principles.md) to concrete moral conclusions. Kant's method of universalization demonstrates how rigorous philosophical analysis can establish objective standards.

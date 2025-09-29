@@ -78,6 +78,7 @@ A-Fortiori/
 │   │   ├── first-principles.md
 │   │   ├── foundation.md
 │   │   ├── methodological-doubt.md
+│   │   ├── reason.md
 │   │   └── reduction.md
 │   ├── metaphysics/
 │   │   ├── causation.md
