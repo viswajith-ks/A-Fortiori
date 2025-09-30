@@ -82,6 +82,7 @@ A-Fortiori/
 │   │   └── reduction.md
 │   ├── metaphysics/
 │   │   ├── causation.md
+│   │   ├── determinism.md
 │   │   ├── metaphysics.md
 │   │   └── reality.md
 │   └── philosophy-religion/
