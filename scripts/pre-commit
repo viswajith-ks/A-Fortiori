@@ -1,0 +1,12 @@
+# !/bin/bash
+
+echo "Checking Markdown links..."
+python3 scripts/check_links.py
+
+status=$?
+if [ $status -ne 0 ]; then
+    echo "❌ Commit blocked due to broken links / placeholders."
+    exit 1
+fi
+
+exit 0

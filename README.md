@@ -26,6 +26,29 @@ This project is structured as a modular knowledge base. The goal is for ideas to
 
 To create a web of ideas, I make heavy use of Markdown links to connect concepts, arguments, and thinkers.
 
+## 🛠 Project Automation
+
+This repository includes a small automation setup to ensure the integrity of the knowledge base:
+
+- **Link Sanitizer**: All Markdown files are automatically scanned for broken or missing relative links before commits.
+- **Pre-commit Hook**: A Git pre-commit hook runs the `scripts/sanitize.py` script to check links. Commits are blocked if any broken links or placeholders are detected.
+- **Placeholder Generation**: If a linked file is missing, a placeholder file is automatically created so the knowledge graph remains consistent.
+
+### How It Works
+
+1. The pre-commit hook executes `scripts/sanitize.py` every time you run `git commit`.
+2. All relative links in `.md` files are validated.
+3. Any broken/placeholder links are flagged with `⚠️ Placeholder`.
+4. Missing files are created as placeholders automatically.
+
+### Notes for Contributors
+
+- The pre-commit hook is located at `.git/hooks/pre-commit`. To enable it locally, make sure it is executable:
+
+```bash
+chmod +x .git/hooks/pre-commit
+```
+
 ## Directory tree (placeholders skipped)
 
 ```sh
