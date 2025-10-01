@@ -8,7 +8,7 @@ Determinism is the thesis that every event is necessitated by antecedent events 
 
 ## Description
 
-Determinism represents one of the most influential and controversial ideas in philosophy, science, and human thought. If true, it means that everything that happens - including human actions, thoughts, and decisions - is the inevitable result of prior causes operating according to natural laws. This has profound implications for [free will](free-will.md) ⚠️ Placeholder, moral responsibility, prediction, and our understanding of human agency.
+Determinism represents one of the most influential and controversial ideas in philosophy, science, and human thought. If true, it means that everything that happens - including human actions, thoughts, and decisions - is the inevitable result of prior causes operating according to natural laws. This has profound implications for [free will](free-will.md), moral responsibility, prediction, and our understanding of human agency.
 
 ## Types of Determinism
 
@@ -252,7 +252,7 @@ Determinism represents one of the most influential and controversial ideas in ph
 
 ## Related Concepts
 
-- [Free Will](free-will.md) ⚠️ Placeholder: Ability to choose between genuine alternatives
+- [Free Will](free-will.md): Ability to choose between genuine alternatives
 - [Causation](causation.md): Relationship between cause and effect
 - [Laws of Nature](laws-of-nature.md) ⚠️ Placeholder: Regular patterns governing natural events
 - [Necessity](necessity.md) ⚠️ Placeholder: What must be the case

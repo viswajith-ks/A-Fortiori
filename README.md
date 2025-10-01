@@ -83,6 +83,7 @@ A-Fortiori/
 │   ├── metaphysics/
 │   │   ├── causation.md
 │   │   ├── determinism.md
+│   │   ├── free-will.md
 │   │   ├── metaphysics.md
 │   │   └── reality.md
 │   └── philosophy-religion/

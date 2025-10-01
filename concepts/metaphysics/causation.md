@@ -240,7 +240,7 @@ Causation is one of the most fundamental concepts in metaphysics, science, and e
 - [Necessity](necessity.md) ⚠️ Placeholder: Causal vs logical necessity
 - [Laws of Nature](laws-of-nature.md) ⚠️ Placeholder: Relationship between causation and natural laws
 - [Determinism](determinism.md): Whether all events have sufficient causes
-- [Free Will](free-will.md) ⚠️ Placeholder: Agent causation and moral responsibility
+- [Free Will](free-will.md): Agent causation and moral responsibility
 
 ## Significance for A Fortiori
 
