@@ -53,7 +53,6 @@ chmod +x .git/hooks/pre-commit
 
 ```sh
 A-Fortiori/
-├── README.md
 ├── arguments/
 │   ├── aristotle-defense-law-non-contradiction.md
 │   ├── categorical-imperative.md
