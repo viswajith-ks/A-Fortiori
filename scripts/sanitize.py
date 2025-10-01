@@ -3,7 +3,7 @@ import re
 import sys
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-ROOT_DIR = os.path.join(SCRIPT_DIR, "A-Fortiori")
+ROOT_DIR = os.path.join(SCRIPT_DIR, "../")
 
 LINK_PATTERN = re.compile(r"(\[.*?\]\((.*?)\))")
 WARNING_EMOJI = "⚠️ Placeholder"
@@ -113,9 +113,9 @@ def print_tree(startpath, prefix=""):
 def debug_placeholders():
     """Print all files that are being detected as placeholders."""
     print("\nFiles detected as placeholders:\n")
-    for dirpath, _, filenames in os.walk(ROOT_DIR):
-        if any(part.startswith(".") for part in dirpath.split(os.sep)):
-            continue
+    for dirpath, dirnames, filenames in os.walk(ROOT_DIR):
+        dirnames[:] = [d for d in dirnames if not d.startswith(".")]
+
         for file in filenames:
             if file.startswith("."):
                 continue
