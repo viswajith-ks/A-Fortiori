@@ -61,6 +61,7 @@ A-Fortiori/
 │   ├── descartes-evil-demon.md
 │   ├── descartes-external-world.md
 │   ├── hume-causation.md
+│   ├── hume-miracles.md
 │   ├── is-ought-problem.md
 │   ├── problem-of-induction.md
 │   ├── transcendental-arguments.md
