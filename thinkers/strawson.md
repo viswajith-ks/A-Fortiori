@@ -1,6 +1,6 @@
 # P.F. Strawson
 
-![P.F. Strawson](../assets/thinkers/strawson.jpg)  
+![P.F. Strawson](../assets/thinkers/strawson.jpg)
 *P.F. Strawson (23 November 1919 – 13 February 2006)*
 
 **Life Span:** 1919–2006
@@ -154,7 +154,7 @@ Strawson practiced "descriptive metaphysics"—analyzing our actual conceptual f
 
 ## Influences
 
-**Influenced by:** Kant, Wittgenstein, Austin, ordinary language philosophy  
+**Influenced by:** Kant, Wittgenstein, Austin, ordinary language philosophy
 **Influenced:** Contemporary metaphysics, philosophy of mind, moral psychology, neo-Kantian philosophy
 
 ## Related Concepts
@@ -193,7 +193,7 @@ Writing in post-war Oxford, Strawson developed ordinary language philosophy's in
 - **Truth-value gaps**: Whether statements can lack truth values
 - **Formal vs natural**: Relationship between logic and ordinary language
 
-### Transcendental Arguments
+### More
 
 - **Effectiveness**: Do they really refute skepticism?
 - **Modality**: What kind of necessity do they establish?
@@ -218,5 +218,5 @@ Strawson's [transcendental arguments](../arguments/transcendental-arguments.md) 
 - Hacker, P.M.S. *Insight and Illusion: Themes in the Philosophy of Wittgenstein*
 - Stern, Robert. *Transcendental Arguments and Scepticism*
 
-**Tags:** `#strawson` `#descriptive-metaphysics` `#transcendental-arguments` `#presupposition` `#persons` `#reactive-attitudes`  
-**Last Updated:** 2025-09-18  
+**Tags:** `#strawson` `#descriptive-metaphysics` `#transcendental-arguments` `#presupposition` `#persons` `#reactive-attitudes`
+**Last Updated:** 2025-09-18

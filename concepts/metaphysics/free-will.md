@@ -297,7 +297,7 @@ Free will is one of philosophy's most enduring and practical problems. It concer
 - [Determinism](determinism.md): Thesis that all events are causally necessitated
 - [Moral Responsibility](../ethics/moral-responsibility.md) ⚠️ Placeholder: Accountability for actions
 - [Causation](causation.md): Relationship between cause and effect
-- [Agency](../mind/agency.md): Capacity for intentional action
+- [Agency](../mind/agency.md) ⚠️ Placeholder: Capacity for intentional action
 - [Autonomy](../ethics/autonomy.md) ⚠️ Placeholder: Self-governance and independence
 - [Personal Identity](../mind/personal-identity.md) ⚠️ Placeholder: What makes someone the same person over time
 

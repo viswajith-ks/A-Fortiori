@@ -134,7 +134,7 @@ Hume applied empirical methodology consistently, arguing that all knowledge come
 
 - [Problem of Induction](../arguments/problem-of-induction.md)
 - [Critique of Causation](../arguments/hume-causation.md)
-- [Miracles Argument](../arguments/hume-miracles.md) ⚠️ Placeholder
+- [Miracles Argument](../arguments/hume-miracles.md)
 - [Is-Ought Problem](../arguments/is-ought-problem.md)
 
 ## Historical Context
