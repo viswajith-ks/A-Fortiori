@@ -113,7 +113,7 @@ Free will is one of philosophy's most enduring and practical problems. It concer
 ### The Consequence Argument
 
 1. **No control over past**: Cannot change what happened before birth
-2. **No control over laws**: Cannot change [laws of nature](laws-of-nature.md) ⚠️ Placeholder
+2. **No control over laws**: Cannot change [laws of nature](laws-of-nature.md)
 3. **Past + laws determine present**: Current state fixed by past and laws
 4. **Therefore**: No control over current state - no free will
 

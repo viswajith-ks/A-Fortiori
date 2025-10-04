@@ -219,4 +219,5 @@ Strawson's [transcendental arguments](../arguments/transcendental-arguments.md) 
 - Stern, Robert. *Transcendental Arguments and Scepticism*
 
 **Tags:** `#strawson` `#descriptive-metaphysics` `#transcendental-arguments` `#presupposition` `#persons` `#reactive-attitudes`
+
 **Last Updated:** 2025-09-18

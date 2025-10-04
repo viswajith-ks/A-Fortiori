@@ -20,7 +20,7 @@ Can testimony ever provide sufficient evidence to rationally believe in miracles
 
 #### Premises
 
-1. **Miracles violate [laws of nature](../concepts/metaphysics/laws-of-nature.md) ⚠️ Placeholder** by definition
+1. **Miracles violate [laws of nature](../concepts/metaphysics/laws-of-nature.md)** by definition
 2. **Laws of nature are established by uniform experience** - constant conjunction without exception
 3. **Evidence for laws is maximal** - based on all human experience throughout history
 4. **Evidence against miracle is evidence for law** - every instance of law operating normally
@@ -236,7 +236,7 @@ Even if the a priori argument fails, examining actual miracle claims reveals add
 
 - [Testimony](../concepts/epistemology/testimony.md) ⚠️ Placeholder: Knowledge from others' reports
 - [Evidence](../concepts/epistemology/evidence.md) ⚠️ Placeholder: What supports or undermines beliefs
-- [Laws of Nature](../concepts/metaphysics/laws-of-nature.md) ⚠️ Placeholder: Regular patterns in nature
+- [Laws of Nature](../concepts/metaphysics/laws-of-nature.md): Regular patterns in nature
 - [Probability](../concepts/epistemology/probability.md) ⚠️ Placeholder: Degrees of rational belief
 - [Faith](../concepts/philosophy-religion/faith.md): Belief despite insufficient evidence
 - [Causation](../concepts/metaphysics/causation.md): Regular connections between events
@@ -261,4 +261,5 @@ Hume's argument demonstrates rigorous application of empirical [epistemology](..
 - McGrew, Timothy. "Miracles" (Stanford Encyclopedia of Philosophy)
 
 **Tags:** `#hume` `#miracles` `#testimony` `#evidence` `#probability` `#religious-epistemology` `#laws-of-nature`
+
 **Last Updated:** 2025-10-03

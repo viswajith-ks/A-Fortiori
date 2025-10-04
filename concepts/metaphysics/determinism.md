@@ -254,7 +254,7 @@ Determinism represents one of the most influential and controversial ideas in ph
 
 - [Free Will](free-will.md): Ability to choose between genuine alternatives
 - [Causation](causation.md): Relationship between cause and effect
-- [Laws of Nature](laws-of-nature.md) ⚠️ Placeholder: Regular patterns governing natural events
+- [Laws of Nature](laws-of-nature.md): Regular patterns governing natural events
 - [Necessity](necessity.md) ⚠️ Placeholder: What must be the case
 - [Predictability](predictability.md) ⚠️ Placeholder: Ability to forecast future events
 - [Moral Responsibility](../ethics/moral-responsibility.md) ⚠️ Placeholder: Accountability for actions

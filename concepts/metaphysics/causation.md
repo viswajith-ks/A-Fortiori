@@ -238,7 +238,7 @@ Causation is one of the most fundamental concepts in metaphysics, science, and e
 - [Aristotelian Causation](../meta-philosophy/aristotelian-causation.md): Classical four-cause analysis
 - [Reality](reality.md): Causation as fundamental feature of reality
 - [Necessity](necessity.md) ⚠️ Placeholder: Causal vs logical necessity
-- [Laws of Nature](laws-of-nature.md) ⚠️ Placeholder: Relationship between causation and natural laws
+- [Laws of Nature](laws-of-nature.md): Relationship between causation and natural laws
 - [Determinism](determinism.md): Whether all events have sufficient causes
 - [Free Will](free-will.md): Agent causation and moral responsibility
 
