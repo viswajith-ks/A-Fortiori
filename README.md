@@ -31,7 +31,7 @@ To create a web of ideas, I make heavy use of Markdown links to connect concepts
 This repository includes a small automation setup to ensure the integrity of the knowledge base:
 
 - **Link Sanitizer**: All Markdown files are automatically scanned for broken or missing relative links before commits.
-- **Pre-commit Hook**: A Git pre-commit hook runs the `scripts/sanitize.py` script to check links. Commits are blocked if any broken links or placeholders are detected.
+- **Pre-commit Hook**: `.git/hooks/pre-commit` runs the `scripts/sanitize.py` script to check links. Commits are blocked if any broken links or placeholders are detected.
 - **Placeholder Generation**: If a linked file is missing, a placeholder file is automatically created so the knowledge graph remains consistent.
 
 ### How It Works
